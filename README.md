@@ -2,6 +2,8 @@
 #this application is to disply all photo from the device on it run's <br>
 ##MainActivity displays all folders with images and the number of images it contains<br>
 ##Displays all images in a given folder, in this case "FastSave"<br>
+------------------------------------------------------------------------<br>
+Each android device has a gallery app that contains all the images and videos of the device, in this post I will demonstrate how you can create your own simple image gallery application<br>
 -------------------------------------------------------------------------<br>
 #Name------------------------id<br>
 1,Awoke Ayele                1126<br>
